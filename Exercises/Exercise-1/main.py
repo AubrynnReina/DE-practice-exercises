@@ -90,7 +90,6 @@ def main():
     all_zip_files = glob.glob('./downloads/*')
     extract_from_zips(all_zip_files)
     
-    
     pass
 
 
